@@ -281,11 +281,10 @@ hr{
     height:700px;
     margin-top:5px;
     z-index:1;
+
 }
 .slider{
    display:block;
-   margin-right:auto;
-   margin-left:auto;
    width: 90vw;
    height:700px;
    overflow:hidden;
